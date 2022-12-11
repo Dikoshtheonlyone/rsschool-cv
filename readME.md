@@ -1,1 +1,1 @@
-https://Dikoshtheonlyone.github.io/rsschool-cv/
+https://Dikoshtheonlyone.github.io/rsschool-cv/cv
