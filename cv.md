@@ -1,6 +1,6 @@
 # Diana Lepesbayeva 🤗
 
-<img src="profile.jpg" border="4" align="right" height="180" width="200" />
+<img src="profile.jpg" alt="profile" border="4" align="right" height="180" width="200" />
 
 ## Junior Front-end developer 💻
 
