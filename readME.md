@@ -1,1 +1,1 @@
-Diana Lepesbayeva
+https://Dikoshtheonlyone.github.io/rsschool-cv/
