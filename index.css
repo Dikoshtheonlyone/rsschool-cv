@@ -139,12 +139,24 @@ body {
   margin-top: 5px;
 }
 
-.contactInfo.language .percent div {
+.contactInfo.language .percent span {
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
   background: #03a9f4;
+}
+
+.contactInfo.language .percent .kz {
+  width: 100%;
+}
+
+.contactInfo.language .percent .ru {
+  width:90%;
+}
+
+.contactInfo.language .percent .eng {
+  width:80%;
 }
 
 .container .right_Side {
@@ -208,6 +220,18 @@ p {
   width: 100%;
   height: 10px;
   background: #f0f0f0;
+}
+
+.skills .box .percent .html {
+  width: 100%;
+}
+
+.skills .box .percent .css {
+  width: 85%;
+}
+
+.skills .box .percent .js {
+  width: 80%;
 }
 
 .skills .box .percent div {
